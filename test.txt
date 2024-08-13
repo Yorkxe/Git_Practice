@@ -2,3 +2,5 @@ This is master branch.
 This is second branch.
 
 This is the second edit on master branch.
+
+This is the third edit on master branch.
